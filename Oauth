@@ -1,0 +1,7 @@
+- text: |
+    i=JTvXRY1pCeLp1tyXdDDgk1KyUu1VIXTc
+    s=_Yzv7l7Z8DdZ79JfR40JJWhabWSTp5XWFDRuTlGqTLMtMXwzrml81Z5CRpYJ3XSj
+    d=gg-test.auth0.com
+  domain: gg-test.auth0.com
+  client_id: JTvXRY1pCeLp1tyXdDDgk1KyUu1VIXTc
+  client_secret: _Yzv7l7Z8DdZ79JfR40JJWhabWSTp5XWFDRuTlGqTLMtMXwzrml81Z5CRpYJ3XSj
